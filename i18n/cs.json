@@ -38,7 +38,7 @@
     "backup_database_enable_description": "Povolit zálohování databáze",
     "backup_keep_last_amount": "Počet předchozích záloh k uchování",
     "backup_settings": "Nastavení zálohování",
-    "backup_settings_description": "Spravovat nastavení zálohování databáze",
+    "backup_settings_description": "Správa nastavení zálohování databáze",
     "check_all": "Vše zkontrolovat",
     "cleared_jobs": "Hotové úlohy pro: {job}",
     "config_set_by_file": "Konfigurace je aktuálně prováděna konfiguračním souborem",
